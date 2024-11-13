@@ -6,7 +6,7 @@
 ## EXPRESIÓN DIFERENCIAL
 ## Autor: Cristóbal Fresno
 ## Fecha: 2019/02/05
-## Modificado por : Erandi Serrano
+## Modificado por: Erandi Serrano
 ## https://github.com/CSB-IG/tcgarnaseqbc/blob/master/DifGenes.R
 #################################################################################
 #options(width=120)
