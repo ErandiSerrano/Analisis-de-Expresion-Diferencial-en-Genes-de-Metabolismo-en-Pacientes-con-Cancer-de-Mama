@@ -1,2 +1,2 @@
 # Analisis-de-Expresion-Diferencial-en-Genes-de-Metabolismo-en-Pacientes-con-Cancer-de-Mama
-Análisis de expresión diferencial de genes involucrados en procesos metabólicos. El objetivo es identificar genes cuya expresión varía significativamente entre tejidos tumorales y normales, lo que podría proporcionar información valiosa sobre los mecanismos metabólicos asociados con el cáncer de mama y posibles blancos terapéuticas.
+Análisis de expresión diferencial de genes involucrados en procesos metabólicos. El objetivo es identificar genes cuya expresión varía significativamente entre tejidos tumorales y normales, lo que podría proporcionar información valiosa sobre los mecanismos metabólicos asociados con el cáncer de mama y posibles blancos terapéuticos.
